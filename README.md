@@ -1,4 +1,4 @@
-# Aidan Hildebrand — Developer in Progress
+# Aidan Hildebrand | Software Developer | Critical Thinker & Communicator
 
 Hey there! I'm Aidan, a software developer with a background in logistics and training. I recently graduated from Flatiron School’s immersive software engineering program, where I sharpened my skills in Python, JavaScript, React, Flask, and SQL.
 
@@ -36,5 +36,5 @@ Before switching lanes into tech, I worked as a truck driver trainer. That taugh
 
 ---
 
-## 🛠 My Coding Philosophy
+## My Coding Philosophy
 Build things that matter. Keep it readable. Stay curious.
